@@ -1,0 +1,29 @@
+Burgers:
+Cheeseburger - $3.00
+Double Cheeseburger - $4.00
+Big Jazz Burger - $5.50
+Q-Chik Burger - $4.50
+Double Decker Burger - $4.00
+Drinks:
+Coca-Cola - $2.00
+Mountain Dew - $2.00
+Sprite - $2.00
+Fanta - $2.00
+Water - $1.50
+Banana Milkshake - $3.00
+Blueberry Milkshake - $3.00
+Breakfast Menu:
+Sausage & Egg Rolls - $5.00
+Boiled Egg - $2.00
+Pancakes - $6.00
+Hash Brown - $3.50
+Desserts:
+Cheesecake - $10.00
+Vanilla Ice Cream - $4.50
+Chocolate Ice Cream - $4.50
+Apple Turnovers - $4.00
+Extras:
+Ketchup - $0.60
+Tartar Sauce - $0.80
+Fries - $2.00
+End
